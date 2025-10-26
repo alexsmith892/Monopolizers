@@ -1,2 +1,2 @@
 # Monopolizers
-RL Monopoly Bot
+RL Monopoly Agent
